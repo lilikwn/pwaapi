@@ -1,0 +1,22 @@
+{
+  "products" : [{"id":1,"name":"Langur, gray","category":"Indigo"},
+{"id":2,"name":"Springhare","category":"Indigo"},
+{"id":3,"name":"Kangaroo, western grey","category":"Fuscia"},
+{"id":4,"name":"Mynah, common","category":"Green"},
+{"id":5,"name":"African snake (unidentified)","category":"Pink"},
+{"id":6,"name":"Wagtail, african pied","category":"Green"},
+{"id":7,"name":"American Virginia opossum","category":"Violet"},
+{"id":8,"name":"Black-necked stork","category":"Puce"},
+{"id":9,"name":"Eurasian badger","category":"Violet"},
+{"id":10,"name":"Blue crane","category":"Crimson"},
+{"id":11,"name":"Burmese black mountain tortoise","category":"Yellow"},
+{"id":12,"name":"Blue crane","category":"Aquamarine"},
+{"id":13,"name":"Buttermilk snake","category":"Red"},
+{"id":14,"name":"Mongoose, yellow","category":"Blue"},
+{"id":15,"name":"Jaguar","category":"Goldenrod"},
+{"id":16,"name":"Brolga crane","category":"Fuscia"},
+{"id":17,"name":"Mynah, common","category":"Khaki"},
+{"id":18,"name":"Jaguarundi","category":"Puce"},
+{"id":19,"name":"Asian elephant","category":"Crimson"},
+{"id":20,"name":"Heron, giant","category":"Pink"}]
+}
